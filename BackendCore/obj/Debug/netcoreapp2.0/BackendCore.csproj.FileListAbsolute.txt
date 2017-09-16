@@ -1,0 +1,11 @@
+C:\Users\mobib\Documents\Visual Studio 2017\Projects\BackendCore\BackendCore\bin\Debug\netcoreapp2.0\BackendCore.deps.json
+C:\Users\mobib\Documents\Visual Studio 2017\Projects\BackendCore\BackendCore\bin\Debug\netcoreapp2.0\BackendCore.runtimeconfig.json
+C:\Users\mobib\Documents\Visual Studio 2017\Projects\BackendCore\BackendCore\bin\Debug\netcoreapp2.0\BackendCore.runtimeconfig.dev.json
+C:\Users\mobib\Documents\Visual Studio 2017\Projects\BackendCore\BackendCore\bin\Debug\netcoreapp2.0\BackendCore.dll
+C:\Users\mobib\Documents\Visual Studio 2017\Projects\BackendCore\BackendCore\obj\Debug\netcoreapp2.0\BackendCore.csprojResolveAssemblyReference.cache
+C:\Users\mobib\Documents\Visual Studio 2017\Projects\BackendCore\BackendCore\obj\Debug\netcoreapp2.0\BackendCore.csproj.CoreCompileInputs.cache
+C:\Users\mobib\Documents\Visual Studio 2017\Projects\BackendCore\BackendCore\obj\Debug\netcoreapp2.0\BackendCore.AssemblyInfoInputs.cache
+C:\Users\mobib\Documents\Visual Studio 2017\Projects\BackendCore\BackendCore\obj\Debug\netcoreapp2.0\BackendCore.AssemblyInfo.cs
+C:\Users\mobib\Documents\Visual Studio 2017\Projects\BackendCore\BackendCore\bin\Debug\netcoreapp2.0\BackendCore.pdb
+C:\Users\mobib\Documents\Visual Studio 2017\Projects\BackendCore\BackendCore\obj\Debug\netcoreapp2.0\BackendCore.dll
+C:\Users\mobib\Documents\Visual Studio 2017\Projects\BackendCore\BackendCore\obj\Debug\netcoreapp2.0\BackendCore.pdb
